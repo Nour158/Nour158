@@ -1,6 +1,6 @@
 # Hi, I'm Nourallah Ghonim 👋
 
-🎓 Artificial Intelligence Student specializing in Robotics and Computer Vision.
+🎓 Artificial Intelligence Student specializing in Robotics and Intellgent Systems.
 
 I'm passionate about building intelligent robotic systems, computer vision applications, and machine learning solutions. I enjoy combining AI with embedded systems to create practical real-world projects.
 
