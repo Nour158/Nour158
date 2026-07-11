@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Nourallah Ghonim 👋
 
-<!--
-**Nour158/Nour158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student specializing in Robotics and Computer Vision.
 
-Here are some ideas to get you started:
+I'm passionate about building intelligent robotic systems, computer vision applications, and machine learning solutions. I enjoy combining AI with embedded systems to create practical real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+
+- Python
+- C++
+- Arduino
+- ESP32
+- OpenCV
+- TensorFlow
+- Scikit-learn
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Robotics
+- Embedded Systems
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+🤖 6-DOF Robotic Arm
+
+🧩 Sudoku Solver from Camera
+
+🥬 Grocery Estimator
+
+🌵 Cactus Detection
+
+
+---
+
+## 🌱 Currently Learning
+
+- Robotics
+- Computer Vision
+- ROS
+- Deep Learning
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/nourallah-ghonim-835a47294
+- Email: nourallah9735@gmail.com
