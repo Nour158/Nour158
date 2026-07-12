@@ -1,4 +1,4 @@
-# Hi, I'm Nourallah Ghonim 👋
+# Hi, I'm Nour👋
 
 🎓 Artificial Intelligence Student specializing in Robotics and Intelligent Systems.
 
